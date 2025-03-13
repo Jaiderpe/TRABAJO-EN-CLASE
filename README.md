@@ -1,6 +1,6 @@
 # TRABAJO-EN-CLASE
 
-# 📌 Lista de Palabras Únicas
+# 📌 TEMA FINAL DE CLASES 
 
 ## 📖 Descripción
 temas vistos en clase 
